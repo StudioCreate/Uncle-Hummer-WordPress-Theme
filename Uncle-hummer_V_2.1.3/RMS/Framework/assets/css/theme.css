@@ -1,0 +1,397 @@
+/* [ Skin: Yellow ] */
+.yellow-skin a .icon.arrow-top{
+	background: #ffdb24;
+}
+/* [ Skin: Green ] */
+
+.green-skin #home:before,
+.green-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,
+.green-skin .ba-control-bar,
+.green-skin .ba-control-handle,
+.green-skin a .icon.arrow-top{
+	background: #2ecc71;
+}
+.green-skin li.service-item ul li:hover{
+	background: #2ecc71!important;
+}
+.green-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+.green-skin li.partner-item:hover,
+.green-skin .footer-two,
+.green-skin .portfolio-thumb i,
+.green-skin li.service-item i,
+.green-skin #contactform input:focus,
+.green-skin #contactform textarea:focus,
+.green-skin #contactform select:focus,
+.green-skin .count:hover{
+	border-color: #2ecc71;
+}
+.green-skin .ba-control-handle:after{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 22px solid #2ecc71;
+}
+.green-skin .ba-control-handle:before{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-bottom: 22px solid #2ecc71;
+}
+.green-skin .main-menu h1 a,
+.green-skin a:hover,
+.green-skin a.arrow-link:after,
+.green-skin .portfolio-thumb i,
+.green-skin .bigtext h5,
+.green-skin h5.bigtext,
+.green-skin .text-subtitle:before,
+.green-skin .text-subtitle:after,
+.green-skin .text-color,
+.green-skin li.service-item i,
+.green-skin #partners-prev i:hover,
+.green-skin #partners-next i:hover,
+.green-skin #services-prev i:hover,
+.green-skin #services-next i:hover,
+.green-skin .count:hover{
+	color: #2ecc71;
+}
+.green-skin .icon.huge:hover{
+	border-color: #2ecc71;
+	color: #2ecc71;
+}
+.green-skin .ba-control-handle i,.red-skin .ba-control-handle i:hover{
+	color: #fff;
+}
+.green-skin .ba-control-handle:hover.ba-control-handle i{
+	color: #fff;
+}
+/* [ Skin: blue ] */
+
+.blue-skin #home:before,
+.blue-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,
+.blue-skin .ba-control-bar,
+.blue-skin .ba-control-handle,
+.blue-skin a .icon.arrow-top{
+	background: #3498db;
+}
+.blue-skin li.service-item ul li:hover{
+	background: #3498db!important;
+}
+.blue-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+.blue-skin li.partner-item:hover,
+.blue-skin .footer-two,
+.blue-skin .portfolio-thumb i,
+.blue-skin li.service-item i,
+.blue-skin #contactform input:focus,
+.blue-skin #contactform textarea:focus,
+.blue-skin #contactform select:focus,
+.blue-skin .count:hover{
+	border-color: #3498db;
+}
+.blue-skin .ba-control-handle:after{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 22px solid #3498db;
+}
+.blue-skin .ba-control-handle:before{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-bottom: 22px solid #3498db;
+}
+.blue-skin .main-menu h1 a,
+.blue-skin a:hover,
+.blue-skin a.arrow-link:after,
+.blue-skin .portfolio-thumb i,
+.blue-skin .bigtext h5,
+.blue-skin h5.bigtext,
+.blue-skin .text-subtitle:before,
+.blue-skin .text-subtitle:after,
+.blue-skin .text-color,
+.blue-skin li.service-item i,
+.blue-skin #partners-prev i:hover,
+.blue-skin #partners-next i:hover,
+.blue-skin #services-prev i:hover,
+.blue-skin #services-next i:hover,
+.blue-skin .count:hover{
+	color: #3498db;
+}
+.blue-skin .icon.huge:hover{
+	border-color: #3498db;
+	color: #3498db;
+}
+.blue-skin .ba-control-handle i,.red-skin .ba-control-handle i:hover{
+	color: #fff;
+}
+.blue-skin .ba-control-handle:hover.ba-control-handle i{
+	color: #fff;
+}
+
+/* [ Skin: aqua ] */
+
+.aqua-skin #home:before,
+.aqua-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,
+.aqua-skin .ba-control-bar,
+.aqua-skin .ba-control-handle,
+.aqua-skin a .icon.arrow-top{
+	background: #8e44ad;
+}
+.aqua-skin li.service-item ul li:hover{
+	background: #8e44ad!important;
+}
+.aqua-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+.aqua-skin li.partner-item:hover,
+.aqua-skin .footer-two,
+.aqua-skin .portfolio-thumb i,
+.aqua-skin li.service-item i,
+.aqua-skin #contactform input:focus,
+.aqua-skin #contactform textarea:focus,
+.aqua-skin #contactform select:focus,
+.aqua-skin .count:hover{
+	border-color: #8e44ad;
+}
+.aqua-skin .ba-control-handle:after{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 22px solid #8e44ad;
+}
+.aqua-skin .ba-control-handle:before{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-bottom: 22px solid #8e44ad;
+}
+.aqua-skin .main-menu h1 a,
+.aqua-skin a:hover,
+.aqua-skin a.arrow-link:after,
+.aqua-skin .portfolio-thumb i,
+.aqua-skin .bigtext h5,
+.aqua-skin h5.bigtext,
+.aqua-skin .text-subtitle:before,
+.aqua-skin .text-subtitle:after,
+.aqua-skin .text-color,
+.aqua-skin li.service-item i,
+.aqua-skin #partners-prev i:hover,
+.aqua-skin #partners-next i:hover,
+.aqua-skin #services-prev i:hover,
+.aqua-skin #services-next i:hover,
+.aqua-skin .count:hover{
+	color: #8e44ad;
+}
+.aqua-skin .icon.huge:hover{
+	border-color: #8e44ad;
+	color: #8e44ad;
+}
+.aqua-skin .ba-control-handle i,.red-skin .ba-control-handle i:hover{
+	color: #fff;
+}
+.aqua-skin .ba-control-handle:hover.ba-control-handle i{
+	color: #fff;
+}
+
+/* [ Skin: red ] */
+
+.red-skin #home:before,
+.red-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,
+.red-skin .ba-control-bar,
+.red-skin .ba-control-handle,
+.red-skin a .icon.arrow-top{
+	background: #e74c3c;
+}
+.red-skin li.service-item ul li:hover{
+	background: #e74c3c!important;
+}
+.red-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+.red-skin li.partner-item:hover,
+.red-skin .footer-two,
+.red-skin .portfolio-thumb i,
+.red-skin li.service-item i,
+.red-skin #contactform input:focus,
+.red-skin #contactform textarea:focus,
+.red-skin #contactform select:focus,
+.red-skin .count:hover{
+	border-color: #e74c3c;
+}
+.red-skin .ba-control-handle:after{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 22px solid #e74c3c;
+}
+.red-skin .ba-control-handle:before{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-bottom: 22px solid #e74c3c;
+}
+.red-skin .main-menu h1 a,
+.red-skin a:hover,
+.red-skin a.arrow-link:after,
+.red-skin .portfolio-thumb i,
+.red-skin .bigtext h5,
+.red-skin h5.bigtext,
+.red-skin .text-subtitle:before,
+.red-skin .text-subtitle:after,
+.red-skin .text-color,
+.red-skin li.service-item i,
+.red-skin #partners-prev i:hover,
+.red-skin #partners-next i:hover,
+.red-skin #services-prev i:hover,
+.red-skin #services-next i:hover,
+.red-skin .count:hover{
+	color: #e74c3c;
+}
+.red-skin .icon.huge:hover{
+	border-color: #e74c3c;
+	color: #e74c3c;
+}
+.red-skin .ba-control-handle i,.red-skin .ba-control-handle i:hover{
+	color: #fff;
+}
+.red-skin .ba-control-handle:hover.ba-control-handle i{
+	color: #fff;
+}
+/* [ Skin: orange ] */
+
+.orange-skin #home:before,
+.orange-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,
+.orange-skin .ba-control-bar,
+.orange-skin .ba-control-handle,
+.orange-skin a .icon.arrow-top{
+	background: #ff9641;
+}
+.orange-skin li.service-item ul li:hover{
+	background: #ff9641!important;
+}
+.orange-skin .rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+.orange-skin li.partner-item:hover,
+.orange-skin .footer-two,
+.orange-skin .portfolio-thumb i,
+.orange-skin li.service-item i,
+.orange-skin #contactform input:focus,
+.orange-skin #contactform textarea:focus,
+.orange-skin #contactform select:focus,
+.orange-skin .count:hover{
+	border-color: #ff9641;
+}
+.orange-skin .ba-control-handle:after{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-top: 22px solid #ff9641;
+}
+.orange-skin .ba-control-handle:before{
+	border-left: 35px solid transparent;
+	border-right: 35px solid transparent;
+	border-bottom: 22px solid #ff9641;
+}
+.orange-skin .main-menu h1 a,
+.orange-skin a:hover,
+.orange-skin a.arrow-link:after,
+.orange-skin .portfolio-thumb i,
+.orange-skin .bigtext h5,
+.orange-skin h5.bigtext,
+.orange-skin .text-subtitle:before,
+.orange-skin .text-subtitle:after,
+.orange-skin .text-color,
+.orange-skin li.service-item i,
+.orange-skin #partners-prev i:hover,
+.orange-skin #partners-next i:hover,
+.orange-skin #services-prev i:hover,
+.orange-skin #services-next i:hover,
+.orange-skin .count:hover{
+	color: #ff9641;
+}
+.orange-skin .icon.huge:hover{
+	border-color: #ff9641;
+	color: #ff9641;
+}
+.orange-skin .ba-control-handle i,.red-skin .ba-control-handle i:hover{
+	color: #fff;
+}
+.orange-skin .ba-control-handle:hover.ba-control-handle i{
+	color: #fff;
+}
+/* Palette */
+
+#palette {
+    position: fixed;
+    top: 20%;
+    left: -150px;
+    z-index: 99;
+    overflow: hidden;
+}
+
+#palette a {
+    width: 50px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    line-height: 50px;
+    position: relative;
+}
+
+#palette nav {
+    width: 150px;
+	float: left;
+	overflow: hidden;
+	padding: 10px 0px 10px 10px;
+	background: #333333;
+}
+#palette nav a{
+	width: 40px;
+	height: 40px;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+	position: relative;
+	margin: 2px;
+}
+
+#palette a.palette-edit {
+    border-radius: 0 5px 5px 0;
+    background-color: #333333;
+    float: left;
+}
+#palette a i {
+    vertical-align: middle;
+	margin-top: 0px;
+	font-size: 30px;
+	color: #fff;
+	-webkit-animation: spin 2s infinite linear;
+	-moz-animation: spin 2s infinite linear;
+	-o-animation: spin 2s infinite linear;
+	animation: spin 2s infinite linear;
+}
+#palette a.palette-red {
+    background-color: #C74C45;
+}
+#palette a.palette-green {
+    background-color: #29b973;
+}
+#palette a.palette-blue {
+    background-color: #3193c5;
+}
+#palette a.palette-aqua {
+    background-color: #8e44ad;
+}
+#palette a.palette-yellow {
+    background-color: #ffd824;
+}
+#palette a.palette-orange {
+    background-color: #ff9641;
+}
+#palette a.selected span {
+    background: url(../images/palette-active.png) center center no-repeat;
+    width: 40px;
+    height: 40px;
+    content: '\0020';
+    display: block;
+}
+
+#palette nav a:hover:after {
+    background-color: #fff;
+    opacity: .2;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: '\0020';
+}
+
+#contactform img.preset_border{
+	border-right: 2px solid #ffdb24!important;
+}

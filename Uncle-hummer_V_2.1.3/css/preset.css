@@ -1,0 +1,67 @@
+#header{ background:url(http://limon/reorder/wp-content/uploads/2014/02/slider4.jpg) no-repeat fixed center 0;}#header .navbar-default .navbar-nav > .active, #header .navbar-default .navbar-nav > .active, #header .navbar-default .navbar-nav > .active,#header .navbar-nav > li:hover {background:#EFA756;}
+                #purchase .free {background:#EFA756;}
+                #our-feature{ background-color: #046449; background-image: inherit; background-attachment: fixed;}
+                .items-list .single-item .spacer{ background:#EFA756;}
+                section#our_team .our_team_elements:hover{background:#044432;}
+                #pricing{background:#EFA756; background-image: inherit; background-attachment: fixed;}
+                #our_team{background:#EFA756; background-image: inherit; background-attachment: fixed;}
+                .single-comment{background:#EFA756;}
+                .flag_langu .widget select{border: 1px solid #EFA756 !important;}
+                
+                .form-control:focus{border:1px solid #EFA756 !important;}
+                p.slider-button button.btn-primary{ background: #EFA756 !important; border-color: #EFA756 !important; transition: all 700ms }
+                p.slider-button button.btn-primary:hover{background: #49c9af !important; border-color: #49c9af !important;}
+                #header .login{border-color: #EFA756 !important; color: #EFA756 !important; }
+                .tp-rightarrow.default{background: rgba(239, 167, 86, .5) !important;}
+                .tp-leftarrow.default{background: rgba(239, 167, 86, .5) !important;}
+                #purchase .buy{background: #EFA756 !important;}
+                #purchase .buy:hover{background:#49C9AF !important}
+                #rox-best .progress-bar{background: #EFA756 !important;}
+                .team_element .team_hide_area{background: rgba(239, 167, 86, .9) !important;}
+                .single-comment{background: #EFA756 !important;}
+                section#rox-our-service ul#tab1 .active i{box-shadow: 0 0 0 15px #EFA756 inset !important;}
+                section#rox-our-service ul#tab1 .active i:hover{box-shadow: 0 0 0 15px #EFA756 inset !important;}
+                /**Our Service**/
+                section#rox-our-service ul#tab1 li.active{border-color: #EFA756 !important;}
+                section#rox-our-service ul#tab1 li.active a{color: #EFA756 !important;}
+                section#rox-our-service ul#tab1 li.active a div i{color: #EFA756 !important;}
+
+                section#rox-our-service ul#tab1 li:hover{border-color: #EFA756 !important;}
+                section#rox-our-service ul#tab1 li a:hover{color: #EFA756 !important;}
+                section#rox-our-service ul#tab1 li a:hover i{-webkit-box-shadow:inset 0 0 0 15px #EFA756; -moz-box-shadow:inset 0 0 0 15px #EFA756; box-shadow:inset 0 0 0 15px #EFA756; color:#EFA756; }
+
+                .tp-bullets.simplebullets .bullet:hover,
+                .tp-bullets.simplebullets .bullet.selected {background: #EFA756 !important;}
+
+                .tp-bullets.simplebullets.round .bullet:hover,
+                .tp-bullets.simplebullets.round .bullet.selected,
+                .tp-bullets.simplebullets.navbar .bullet:hover,
+                .tp-bullets.simplebullets.navbar .bullet.selected {background: #EFA756 !important;}
+
+                .article_overlay .overlay_link{background: #EFA756 !important;}
+                #how_its_work_graph .how_its_work_graph .hw_one div:hover{ background: #EFA756 !important;}
+                a.st_button{color: #EFA756 !important;}
+
+
+
+                #header .navbar-nav > li .sub-menu li{ background:none repeat scroll 0 0 rgba(239, 167, 86, .8) !important;}
+                #header .navbar-nav > li .sub-menu li:hover{background:none repeat scroll 0 0 rgba(239, 167, 86, .9) !important;}
+                .our-feature, .pricing{background-color: #EFA756; background-image:inherit; background-attachment: fixed;}
+                .our-feature .first-desc p, .our-feature .second-desc p, .our-feature .feature-intro-text p{ color:#fff;}
+                .recent_img .article_hover{ background:rgba(239, 167, 86, 0.5) !important}
+                .my_account_menu li a{background: rgba(239, 167, 86, 0.8)}
+                .my_account_menu li a:hover{background:#5bb69b;}/* rgba(255,255,255, .1)}*/
+                #header .search_area .form-control {border:1px solid #49c9af}
+                #rox-footer div .ikon-color ul li img{transition:all .5s;}
+                #rox-footer div .ikon-color ul li img:hover{border-color: #EFA756;}
+                .reorder_search #searchform #searchsubmit{background: none repeat scroll 0 0 #EFA756; border: 1px solid #EFA756;}
+
+                .reorder_sidebar .widget-title{background:#EFA756;}
+                .reorder_sidebar .widget_shopping_cart_content .attachment-shop_thumbnail{border: 5px solid #EFA756;}
+                .reorder_sidebar .widget_shopping_cart_content li a{color:#EFA756}
+                .reorder_sidebar .widget_shopping_cart_content{border: 1px solid #EFA756;}
+                .reorder_sidebar #price_filter-2{border: 1px solid #EFA756;}
+                .reorder_sidebar #product_categories-2{border: 1px solid #EFA756;}
+                .reorder_sidebar #recent_products-2{border: 1px solid #EFA756;}
+                .reorder_sidebar #recent_products-2 .product_list_widget a img{border: 5px solid #EFA756;}
+                .reorder_sidebar #recent_products-2 .product_list_widget a{color:#EFA756}

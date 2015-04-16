@@ -1,0 +1,60 @@
+#header{ background:url(http://sd/uncle/wp-content/themes/uncle/RMS/Framework/assets/images/slider_bg/slider4.jpg) no-repeat fixed center 0;}
+			#home:before,
+			.rev_slider_wrapper .tp-bullets.simplebullets.round .bullet.selected,
+			.ba-control-bar,
+			.ba-control-handle,
+			a .icon.arrow-top{
+				background: #ffdb24;
+			}
+			li.service-item ul li:hover{
+				background: #ffdb24!important;
+			}
+			.rev_slider_wrapper .tp-bullets.simplebullets.round .bullet,
+			li.partner-item:hover,
+			.footer-two,
+			.portfolio-thumb i,
+			li.service-item i,
+			#contactform input:focus,
+			#contactform textarea:focus,
+			#contactform select:focus{
+				border-color: #ffdb24;
+			}
+			#contactform img.preset_border{
+				border-right: 2px solid #ffdb24!important;
+			}
+			.ba-control-handle:after{
+				border-left: 35px solid transparent;
+				border-right: 35px solid transparent;
+				border-top: 22px solid #ffdb24;
+			}
+			.ba-control-handle:before{
+				border-left: 35px solid transparent;
+				border-right: 35px solid transparent;
+				border-bottom: 22px solid #ffdb24;
+			}
+			.main-menu h1 a,
+			.green-skin a:hover,
+			.green-skin a.arrow-link:after,
+			.portfolio-thumb i,
+			.bigtext h5,
+			.green-skin h5.bigtext,
+			.text-subtitle:before,
+			.text-subtitle:after,
+			.text-color,
+			li.service-item i,
+			#partners-prev i:hover,
+			#partners-next i:hover,
+			#services-prev i:hover,
+			#services-next i:hover{
+				color: #ffdb24;
+			}
+			.icon.huge:hover{
+				border-color: #ffdb24;
+				color: #ffdb24;
+			}
+			.ba-control-handle i,.red-skin .ba-control-handle i:hover{
+				color: #fff;
+			}
+			.ba-control-handle:hover.ba-control-handle i{
+				color: #fff;
+			}

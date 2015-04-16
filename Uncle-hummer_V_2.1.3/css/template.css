@@ -1,0 +1,165 @@
+/* CSS crunched with Crunch - http://crunchapp.net/ */
+body{-webkit-font-smoothing:subpixel-antialiased;font-family:'Ubuntu',sans-serif;}body h1,body h2,body h3,body h4,body h5,body h6{font-family:'Ubuntu',sans-serif;font-weight:500px;}
+*{transition:all 700ms;}
+.container{max-width:980px;}
+#header{background-size:100%;}#header a.navbar-brand{width:302px;}
+#header .navbar-default{background:transparent;border:none;}
+#header #navbar{padding-top:75px;}
+#header .navbar-nav>li>a{color:#c0c8d3;padding:8px 20px;margin-right:10px;line-height:25px;}#header .navbar-nav>li>a:hover{color:#fff;padding:8px 20px;border-radius:5px;}
+#header .navbar-default .navbar-nav>.active>a,#header .navbar-default .navbar-nav>.active>a:hover,#header .navbar-default .navbar-nav>.active>a:focus{color:#fff;padding:8px 20px;border-radius:5px;font-weight:bold;}
+#header .carousel-content h1{text-align:center;color:#fff;font-family:ubuntu;font-size:50px;font-weight:400;}
+#header .carousel-content .slider-desc{text-align:center;color:#D8DDE3;font-size:19px;}
+#header .carousel-content .slider-button{text-align:center;}
+#header .carousel-content .btn-primary{padding:15px 25px;}
+#header .form-control{background:none;border:none;box-shadow:none;margin-top:-5px;}#header .form-control:focus{border:1px solid #fff;color:#fff;}
+section#main-slider{margin-top:50px;padding-bottom:100px;}section#main-slider .link{float:right;margin-top:-50px;margin-right:28%;text-decoration:none;color:#fff;border-bottom:1px solid #fff;}
+section#main-slider .slider-desc{padding:30px;font-size:20px;}
+section#main-slider .carousel-indicators{bottom:60px;}section#main-slider .carousel-indicators li{border-radius:0;}
+section#main-slider .carousel-indicators .active{background:#49C9AF;border:none;}
+#main-slider .item{-moz-transition:opacity ease-in-out 500ms;-o-transition:opacity ease-in-out 500ms;-webkit-transition:opacity ease-in-out 500ms;transition:opacity ease-in-out 500ms;left:0 !important;opacity:0;top:0;position:absolute;width:100%;display:block !important;z-index:1;text-align:center;}
+#main-slider .item:first-child{top:auto;position:relative;}
+#main-slider .item.active{opacity:1;-moz-transition:opacity ease-in-out 500ms;-o-transition:opacity ease-in-out 500ms;-webkit-transition:opacity ease-in-out 500ms;transition:opacity ease-in-out 500ms;z-index:2;}
+#main-slider .item.active h1{-webkit-animation:scaleUp 400ms;-moz-animation:scaleUp 400ms;-o-animation:scaleUp 400ms;-ms-animation:scaleUp 400ms;animation:scaleUp 400ms;}
+#main-slider .prev,#main-slider .next{position:absolute;top:50%;background-color:rgba(0, 0, 0, 0.3);color:#fff;display:inline-block;margin-top:-50px;font-size:24px;height:50px;width:50px;line-height:50px;text-align:center;border-radius:4px;z-index:5;text-decoration:none;}
+#main-slider .prev:hover,#main-slider .next:hover{background-color:rgba(0, 0, 0, 0.5);}
+#main-slider .prev{left:10px;}
+#main-slider .next{right:10px;}
+i.icon-angle-left{line-height:50px;}
+i.icon-angle-right{line-height:50px;}
+p.slider-button button.btn-primary{background:#4dc9b0;border-color:#39b59c;font-size:17px;padding:15px 30px!important;transition:all 700ms;font-weight:500;font-style:inherit;}p.slider-button button.btn-primary:hover{background:#2DA78E;transition:all 700ms;}
+p.slider-button button.btn-primary i{padding-right:10px;font-size:19px;}
+#services{padding:60px 0;}
+#rox-client-area{padding:30px 0px;}
+
+section#rox-our-service ul#tab1{text-align:center;}section#rox-our-service ul#tab1 .active{border-bottom:1px solid #49c9af;padding:0 0 4px 0;margin:0 13px;}section#rox-our-service ul#tab1 .active i{-webkit-box-shadow:inset 0 0 0 15px #49c9af;-moz-box-shadow:inset 0 0 0 15px #49c9af;box-shadow:inset 0 0 0 15px #49c9af;color:#49c9af;transition:all 700ms;}
+section#rox-our-service ul#tab1 .active a{color:#49c9af;transition:all 700ms;}
+section#rox-our-service ul#tab1 li{margin:0 11px;padding:0 0 5px 0;cursor:pointer;}section#rox-our-service ul#tab1 li a{color:#E3E3E3;transition:all 700ms;}section#rox-our-service ul#tab1 li a div{margin-top:15px;}section#rox-our-service ul#tab1 li a div i{width:130px;height:130px;font-size:50px;color:#808b9a;line-height:130px;display:inline-block;position:relative;background:#fff !important;-webkit-border-radius:50%;-moz-border-radius:50%;border-radius:50%;-webkit-box-shadow:0 0 0 1px #E3E3E3;-moz-box-shadow:0 0 0 1px #E3E3E3;box-shadow:0 0 0 1px #E3E3E3;margin-bottom:20px;transition:all 700ms;border:1px solid #E3E3E3;}
+section#rox-our-service ul#tab1 li:hover{border-bottom:1px solid #49c9af;padding:0 0 4px 0;}section#rox-our-service ul#tab1 li:hover i{-webkit-box-shadow:inset 0 0 0 15px #49c9af;-moz-box-shadow:inset 0 0 0 15px #49c9af;box-shadow:inset 0 0 0 15px #49c9af;color:#49c9af;transition:all 700ms;}
+section#rox-our-service ul#tab1 li:hover a{color:#49c9af;transition:all 700ms;}
+.tab-content{padding:2% 5%;}.tab-content .tab-pane{padding:3% 5%;background:#f3f3f3;}
+#recent-article{background:#F3F3F3;padding:55px 0;}#recent-article .header-text{margin-bottom:3%;}#recent-article .header-text p{font-size:20px;}
+#recent-article .thumbnail{background:#F3F3F3;}#recent-article .thumbnail .caption h4{color:#49c9af;}
+#recent-article .load-button{margin:2% 0 30px;}#recent-article .load-button .btn-primary{background:#F3F3F3;border-color:#DCDCDC;color:#7a818a;border-radius:0;}#recent-article .load-button .btn-primary span{margin-left:5px;}
+#recent-article .load-button .btn-primary:hover{color:#49c9af;}
+#rox-footer{color:#fff;padding:33px 0 53px;}#rox-footer div h1{font-size:24px;font-weight:300;margin-bottom:50px;}
+#rox-footer div ul li{margin-bottom:20px;}#rox-footer div ul li:hover{cursor:pointer;}#rox-footer div ul li:hover i{transition:all 700ms;}
+#rox-footer div ul li i{font-size:30px;width:50px;height:50px;padding:10px 0px 0px 11px;border-radius:4px;margin-right:15px;transition:all 700ms;}
+#rox-footer div ul li p{font-size:17px;margin-bottom:0;}
+#rox-footer div div i{font-size:30px;width:40px;height:40px;background:#394656;}
+#rox-footer div .ikon-color ul{list-style:none;margin-left:-30px;}#rox-footer div .ikon-color ul li{margin:0!Important;display:inline;}#rox-footer div .ikon-color ul li i{background:#D9D9D9;color:#252D3A;padding:15px;font-size:38px;}
+#rox-footer div .ikon-color ul li img{margin-right:8px;}
+#rox-footer div .company-contact li i{background:#D9D9D9;color:#252D3A;margin:0px;margin-left:-4px;padding:4px;font-size:20px;transition:all 700ms;}
+#rox-footer div .company-contact li #facebook{padding:4px 10px;}
+#rox-footer div .company-contact li:hover{background:transparent;}#rox-footer div .company-contact li:hover i{background:transparent;color:#fff;transition:all 700ms;}
+#rox-footer a{color:#49c9af;text-decoration:none;}
+#footer{border-top:2px solid #1E2530;background:#252D3A;padding:20px 0px;color:#cccccc;}#footer a{color:#cccccc;text-decoration:none;}#footer a:hover{color:#49c9af;}
+.turn-right{float:right;}.turn-right button{padding:6px 20px;}.turn-right button:hover{background:#49C9AF;border-color:#49C9AF;color:#fff;}
+.turn-right button:focus{background:#49C9AF;border-color:#49C9AF;color:#fff;}
+section#app-gallery .select-category button:hover{background:#49C9AF;border-color:#49C9AF;color:#fff;}
+section#app-gallery .select-category button:focus{background:#49C9AF;border-color:#49C9AF;color:#fff;}
+section#app-gallery .select-category ul li a:hover{background:#49C9AF;border-color:#49C9AF;color:#fff;}
+section#app-gallery .select-category ul li a:focus{background:#49C9AF;border-color:#49C9AF;color:#fff;}
+.common-title-color{color:#444a51;}
+.body-text-color{color:#7a818a;}
+.box--first-content p{padding:11px 0;font-size:15px;}
+.box--first-content h2{color:#444a51;}
+.box--first-content img{margin:32px 0 0;}
+.padding{padding:5% 0;}
+.center h4{font-size:18px;font-weight:bold;}
+.center #bold-text{font-weight:bold;}
+#purchase{padding:0 0 85px 0;}#purchase .desc{padding:10px 0 40px;}
+#purchase .buy{margin-right:10px;background:#49C9AF;}#purchase .buy:hover{background:#657589;}
+#purchase .free{margin-left:10px;}#purchase .free:hover{background:#49C9AF;}
+#purchase .btn{border:none;padding:15px 30px;transition:all 700ms;}#purchase .btn i{padding:0 10px 0 5px;}
+#our-feature{padding:58px 0 77px;}#our-feature .feature-intro-text{padding-bottom:24px;}
+#our-feature .second{padding:6% 0;}
+#our-feature .first-desc{text-align:right;}
+#our-feature .second-desc{text-align:left;}
+#our-feature h2{color:#fff;}
+#our-feature h3{color:#f2f2f2;font-size:20px;}
+#our-feature p{color:#ccc;}
+#our-feature i{color:#fff;}
+#our-feature .icon{margin-top:5.5%;}#our-feature .icon i{padding:30px 35px;border:1px solid #fff;font-size:25px;cursor:pointer;}#our-feature .icon i:hover{background-color:#49C9AF;border:none;}
+#our-feature .icon i.active{background-color:#49C9AF;border:none;}
+#pricing{color:#fff;padding:60px 0 67px;}#pricing .text-center p{font-size:18px;color:#ececec;margin-top:25px;}
+#pricing .text-center h2{font-size:36px;font-weight:400;}
+#pricing .big-gap{margin-top:50px;}
+#pricing .col-sm-4{padding:8px;}
+#pricing ul{list-style-type:none;padding:0;}#pricing ul li{color:#828991;background:#fff;padding:15px 25px;}
+#pricing ul span{font-size:14px!important;padding-left:10px!important;color:rgba(255, 255, 255, 0.52) !important;}
+#pricing ul .top-botom-border{border-top:1px solid #F3F3F3;border-bottom:1px solid #F3F3F3;}
+#pricing ul .plan-name{background:#1B2430;text-align:center;font-size:22px;color:#fff;padding:20px 0;}
+#pricing ul .plan-price{background:#323F50;text-align:center;font-size:37px;color:#fff;padding:20px 0;font-weight:300;}
+#pricing ul .plan-action{background:#627287;text-align:center;padding:0!important;transition:all 700ms;border-radius:0 0 4px 4px;}#pricing ul .plan-action .btn{background:transparent;border:none;font-size:20px;padding:0;line-height:63px;width:100%;}
+#pricing ul .plan-action:hover{background:#49C9AF;transition:all 700ms;}
+#rox-about-us{padding:60px 0;}#rox-about-us .about-desc h2{font-size:36px;}
+#rox-about-us .about-desc p{font-size:18px;margin-top:20px;}
+#our-company{background:#F3F3F3;padding:5% 0 5% 0;}
+#our-company .company-icon{padding-right:40px;}#our-company .company-icon i{font-size:180px;float:right;}
+#our-company #black-bold{font-weight:bold;}
+#rox-best{padding:60px 0 70px;}#rox-best h3{margin-bottom:20px;}
+#rox-best .reason-list{list-style-type:none;margin:12px 0 0 -35px;}#rox-best .reason-list li{padding:10px 0;}
+#rox-best .reason-list i{color:#49C9AF;margin-right:5px;}
+#rox-best .progress-scale{margin-top:9%;}
+#rox-best .progress{height:30px;border-radius:20px;margin-bottom:15px;}
+#rox-best .progress-bar{background:#49C9AF;text-align:left;float:none;font-size:13px;border-radius:20px;}#rox-best .progress-bar span{margin-left:35px;line-height:2;}
+#rox-best .rox-best-icon{padding-left:40px;}#rox-best .rox-best-icon i{font-size:180px;float:left;color:#EF6767;}
+#rox-content{padding:5% 0;background:#F3F3F3;}#rox-content .rox-content-desc .blue-title{color:#5596D3;}
+#rox-content .rox-content-desc #blue-bold{font-weight:bold;color:#5596D3;}
+#rox-content .rox-content-icon{padding-right:40px;}#rox-content .rox-content-icon i{font-size:180px;float:right;color:#5596D3;}
+#rox-support{padding:5% 0;}#rox-support .rox-support-desc{text-align:right;}#rox-support .rox-support-desc #green-title{color:#49C9AF;}
+#rox-support .rox-support-desc #green-bold{font-weight:bold;color:#49C9AF;}
+#rox-support .rox-support-icon{padding-left:40px;}#rox-support .rox-support-icon i{font-size:180px;float:left;color:#49C9AF;}
+
+.item-filter{float:right;list-style-type:none;}.item-filter li{display:inline;margin:0;}
+.item-filter .active{background:#49C9AF;}
+#app-gallery{background:#F3F3F3;padding:58px 0 85px;}#app-gallery h3{color:#444a51;font-size:20px;}
+#app-gallery h2{margin-bottom:24px;color:#444a51;}
+#app-gallery .gallery-intro-text p{font-size:18px;margin-bottom:58px;}
+#app-gallery .appgallery-first-carosel{padding:3% 0;}
+.items-list .single-item{padding:10% 0 0;background:#fff;border-radius:3px;text-align:center;position:relative;overflow:hidden;border:1px solid #dcdcdc;}.items-list .single-item .spacer{position:absolute;bottom:-200px;left:0;width:100%;height:140px;transition:all 700ms;}.items-list .single-item .spacer .btn-primary{text-decoration:none;color:#444;margin-top:15px;background:#fff;border-color:transparent;}.items-list .single-item .spacer .btn-primary i{padding:10px 10px 0 0;}
+.items-list .single-item .spacer .btn-primary:hover{color:#fff;background:#49C9AF;}
+.items-list .single-item:hover .spacer{bottom:0px;}.items-list .single-item:hover .spacer h3{color:#fff !important;}
+.items-list .single-item:hover .ilusion{opacity:0;transition:all 700ms;}
+.second-display-line .single-item{margin-top:27px;}
+.controls .carousel-control{background:#5F6E83!important;text-shadow:none;width:10px;height:10px;padding:10px;top:-30px;border-radius:2px;}.controls .carousel-control span{line-height:26px;font-size:22px;}
+.controls .carousel-control:hover{background:#49C9AF!important;}
+.controls .left{left:95%;}
+.single-item .left{float:left;}
+.single-item .right{float:right;}
+.single-item .color{color:#49C9AF;}
+.single-item .two-side{border-bottom:1px solid #DCDCDC;padding:15px 20px 39px;}
+.single-item .under-two-side{padding:17px 20px 42px;}.single-item .under-two-side p{text-indent:0;}
+.appgallery-second-carosel .first-line li{margin-bottom:20px;}
+.rox-tab{padding:30px 0 40px;}.rox-tab .nav-tabs{padding:0 0;}.rox-tab .nav-tabs li a{border:0;font-size:25px;}.rox-tab .nav-tabs li a:hover{border:0;background:transparent;}
+#rox-our-service{padding:58px 0 85px;}#rox-our-service .service-intro-text p{font-size:20px;margin-top:20px;}
+.rox-testimonial h2{margin-bottom:60px;}
+.single-comment{padding:0 0 12% 0;color:#fff;}.single-comment .quote-sign{font-size:40px;color:rgba(255, 255, 255, 0.39);padding:0 0 0 3px;}
+.single-comment .user-name{line-height:0;}.single-comment .user-name img{margin:0% 0 0 5%;float:left;}
+.single-comment .user-name h3,.single-comment .user-name p{text-indent:15px;}
+.single-comment .user-name h3{margin-top:9%;}
+.single-comment .coment-text{padding:0 25px;color:rgba(255, 255, 255, 0.75);}
+#tab1-tab1{position:relative;}#tab1-tab1 .arrow{position:absolute;top:-15px;left:35px;}
+#tab1-tab2{position:relative;}#tab1-tab2 .arrow{position:absolute;top:-13%;left:25%;}
+#tab1-tab3{position:relative;}#tab1-tab3 .arrow{position:absolute;top:-13%;left:46%;}
+#tab1-tab4{position:relative;}#tab1-tab4 .arrow{position:absolute;top:-13%;left:68%;}
+#tab1-tab5{position:relative;}#tab1-tab5 .arrow{position:absolute;top:-13%;left:91%;}
+#recent-article .col-sm-6{margin-bottom:15px;}
+#recent-article .col-md-4{margin-bottom:15px;}
+.modal-dialog{max-width:400px;}
+.modal .modal-header{padding:25px 0;text-align:center;}
+.modal .modal-body{width:280px;padding-bottom:0;}.modal .modal-body .login{padding:0;margin-bottom:15px;}.modal .modal-body .login img{width:240px;}
+.modal .modal-body select{padding:15px;line-height:40px;}.modal .modal-body select option{padding:8px 15px;height:40px;}
+.modal .modal-body .form-control{padding:8px 15px;border-radius:2px;color:rgba(0, 0, 0, 0.5);}.modal .modal-body .form-control:focus{border:#49C9AF;}
+.modal .modal-body button{margin:20px 0;border-radius:2px;background:#49C9AF;border:none;color:#FFF;padding:10px 15px;}.modal .modal-body button i{margin-right:10px;}
+.modal .modal-footer{border:none;margin-top:-25px;}.modal .modal-footer button{border:none;background:none;color:#49C9AF;}.modal .modal-footer button:hover{background:none;text-decoration:underline;}
+.rox_navigation{width:100%;}
+.fixed{position:fixed;top:0;left:0;width:100%;background:#fff;border-bottom:1px solid rgba(0, 0, 0, 0.2);-webkit-box-shadow:0 0 5px rgba(0, 0, 0, 0.2);-moz-box-shadow:0 0 5px rgba(0, 0, 0, 0.2);box-shadow:0 0 5px rgba(0, 0, 0, 0.2);z-index:500;}.fixed #navbar{margin:8px 0 0 0 !important;padding:0 !important;}
+.fixed a.st_button{border:1px solid #cccccc;}
+.fixed .navbar-nav>li>a{color:#444a51 !important;}
+.fixed .navbar-default .navbar-nav>.active>a,.fixed .navbar-default .navbar-nav>.active>a:hover,.fixed .navbar-default .navbar-nav>.active>a:focus,.fixed .navbar-nav>li>a:hover{color:#ffffff !important;}
+#rox-client-area{background:#2D3948;}
+#rox-client-area{padding:30px 0px;}
+#rox-footer{background:#252D3A;}
+#rox-footer div ul li i{background:#394656;}
+#rox-footer div ul li:hover i{background:#49c9af;}

@@ -1,0 +1,24 @@
+.tp-caption.large_bold_white2 {
+font-size:80px;
+line-height:60px;
+font-weight:800;
+font-family:Monda, Arial, Helvetica, sans-serif;
+color:rgb(255, 255, 255);
+text-decoration:none;
+background-color:transparent;
+border-width:0px;
+border-color:rgb(255, 214, 88);
+border-style:none;
+}
+
+.tp-caption.black {
+color:#000;
+text-shadow:none;
+}
+
+.tp-caption.hr_content {
+border-width:0px;
+border-color:rgb(34, 34, 34);
+border-style:none;
+}
+
